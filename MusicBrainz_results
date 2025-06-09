@@ -1,0 +1,47 @@
+'''Results for single track API call for: {Britney Spears}, {Womanizer}'''
+title:  Womanizer (Britney Spears)
+artist:  Periods
+MBID:  1c31a827-38a4-48c6-9d2a-e5cb9f5a7353
+{'artist-credit': [{'artist': {'disambiguation': 'France',
+                               'id': 'b6e9dc90-3b10-48c2-800c-9cc84dedf937',
+                               'name': 'Periods',
+                               'sort-name': 'Periods'},
+                    'name': 'Periods'}],
+ 'artist-credit-phrase': 'Periods',
+ 'ext:score': '100',
+ 'id': '1c31a827-38a4-48c6-9d2a-e5cb9f5a7353',
+ 'length': '202000',
+'release-list': [{'artist-credit': [{'artist': {'id': 'ee91ddf6-36bb-45b1-8613-bf527c36f7cb',
+                                                 'name': 'Sick Sad World Music',
+                                                 'sort-name': 'Sick Sad World '
+                                                              'Music'},
+                                      'name': 'Sick Sad World Music'}],
+                   'artist-credit-phrase': 'Sick Sad World Music',
+                   'country': 'XW',
+                   'date': '2020-04-15',
+                   'id': 'af916073-5dc5-4755-9dac-9a28a012a0f5',
+                   'medium-count': 1,
+                   'medium-list': [{'format': 'Digital Media',
+                                    'position': '1',
+                                    'track-count': 42,
+                                    'track-list': [{'id': '21d21a67-c017-46b6-ba99-65dfe6851c3b',
+                                                    'length': '202000',
+                                                    'number': '6',
+                                                    'title': 'Womanizer '
+                                                             '(Britney Spears)',
+                                                    'track_or_recording_length': '202000'}]}],
+                   'medium-track-count': 42,
+                   'release-event-list': [{'area': {'id': '525d4e18-3d00-31b9-a58b-a146a916de8f',
+                                                    'iso-3166-1-code-list': ['XW'],
+                                                    'name': '[Worldwide]',
+                                                    'sort-name': '[Worldwide]'},
+                                           'date': '2020-04-15'}],
+                   'release-group': {'id': '966576d9-728a-4ba9-81d5-a95d2b785e7e',
+                                     'primary-type': 'Album',
+                                     'secondary-type-list': ['Compilation'],
+                                     'title': 'SICK SAD WORLD Volume 1 / '
+                                              'Anti-Covid Covers',
+                                     'type': 'Compilation'},
+                   'status': 'Official',
+                   'title': 'SICK SAD WORLD Volume 1 / Anti-Covid Covers'}],
+ 'title': 'Womanizer (Britney Spears)'}
