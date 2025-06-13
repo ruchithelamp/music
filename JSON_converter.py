@@ -21,7 +21,8 @@ def extract_release_metadata(file_path):
     for r in releases:
         row = {
             "release_id": r.get("id"),
-            "album_title": r.get("title"),
+            "album_title": r.get("title").split(" - ")[1] if " - " in r.get("title", "") else None,
+            "artist": r.get("title").split(" - ")[0] if " - " in r.get("title", "") else None
             "year": r.get("year"),
             "country": r.get("country"),
             "genre": ", ".join(r.get("genre", [])),
