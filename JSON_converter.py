@@ -25,6 +25,7 @@ def extract_release_metadata(file_path):
             "artist": r.get("title").split(" - ")[0] if " - " in r.get("title", "") else None,
             "year": r.get("year"),
             "country": r.get("country"),
+            "duration": r.get("duration"),
             "genre": ", ".join(r.get("genre", [])),
             "style": ", ".join(r.get("style", [])),
             "source": "discogs"
