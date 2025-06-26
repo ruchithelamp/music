@@ -1,0 +1,5050 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 100,
+    "per_page": 100,
+    "items": 73350,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?token=xmWNqVMtvKoFllImiTkEbgIMpgmdVRVggXqrWJPQ&year=2025&type=release&per_page=100&page=100",
+      "next": "https://api.discogs.com/database/search?token=xmWNqVMtvKoFllImiTkEbgIMpgmdVRVggXqrWJPQ&year=2025&type=release&per_page=100&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Compilation",
+        "Remastered",
+        "Stereo"
+      ],
+      "label": [
+        "Rhino Records",
+        "Warner Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Hard Rock"
+      ],
+      "id": 33209751,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3760155,
+      "master_url": "https://api.discogs.com/masters/3760155",
+      "uri": "/release/33209751-David-Lee-Roth-The-Warner-Recordings-19851994",
+      "catno": "none",
+      "title": "David Lee Roth - The Warner Recordings (1985–1994)",
+      "thumb": "https://i.discogs.com/p2DUxMRSormRaGevA61GrYMkc7ySkJe7vylT3uHktbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjA5/NzUxLTE3NDAxNzA2/NzktMjY2Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6fe1KaQOu6I4_Q3eSpTIDd1dGKinSqtFMTDxD5suVrA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjA5/NzUxLTE3NDAxNzA2/NzktMjY2Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33209751",
+      "community": {
+        "want": 1,
+        "have": 16
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "50",
+          "text": "96kHz, 24bit",
+          "descriptions": [
+            "FLAC",
+            "Compilation",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Single"
+      ],
+      "label": [
+        "Mute"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Experimental"
+      ],
+      "id": 32777082,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3720507,
+      "master_url": "https://api.discogs.com/masters/3720507",
+      "uri": "/release/32777082-Laibach-I-Want-To-Know-What-Love-Is",
+      "catno": "none",
+      "title": "Laibach - I Want To Know What Love Is",
+      "thumb": "https://i.discogs.com/I_IVuSeuISeXJwaXF7muA4EEDM_UrVftx92EryxS_XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzc3/MDgyLTE3MzYyNDU2/MDUtNjkyNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fcKK7gMfxnCzrUg9jOjtOF9YsBmhZ_vkMeP9cHYsF4U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzc3/MDgyLTE3MzYyNDU2/MDUtNjkyNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32777082",
+      "community": {
+        "want": 3,
+        "have": 14
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "3",
+          "descriptions": [
+            "FLAC",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "FSOE Recordings",
+        "Future Sound of Egypt Limited",
+        "Future Sound of Egypt Limited",
+        "Future Sound of Egypt Limited"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Trance"
+      ],
+      "id": 32804907,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32804907-Philippe-El-Sisi-X-Amar-N-Echoes-Of-Heaven",
+      "catno": "FSOE861",
+      "title": "Philippe El Sisi X Amar N - Echoes Of Heaven",
+      "thumb": "https://i.discogs.com/8hnExA02nOKOKJRn_iPTc7_mabTO5eSb2Uc_H-kX30U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODA0/OTA3LTE3MzY1MTgy/MDYtMjkwNy5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/TGBJWamtUDzoObChRP3J32FuhSmxz1Kn54VlGwleOCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODA0/OTA3LTE3MzY1MTgy/MDYtMjkwNy5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32804907",
+      "community": {
+        "want": 1,
+        "have": 6
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition"
+      ],
+      "label": [
+        "I, Voidhanger Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Avantgarde",
+        "Black Metal"
+      ],
+      "id": 32897331,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3724842,
+      "master_url": "https://api.discogs.com/masters/3724842",
+      "uri": "/release/32897331-%C3%94ros-Ka%C3%B9-Thanatos",
+      "catno": "IVR205",
+      "title": "Ôros Kaù - Thanatos",
+      "thumb": "https://i.discogs.com/iEWJTrezPPjSD-npRWcClhrJbB3xlPvRGJaUbEZEsBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODk3/MzMxLTE3MzczNzUy/ODAtNzE0Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8jYjk41RsSzKStETqNPnT7aAPjt7k_ANg6dXsdZVnOQ/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODk3/MzMxLTE3MzczNzUy/ODAtNzE0Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32897331",
+      "community": {
+        "want": 0,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2025",
+      "format": [
+        "Cassette",
+        "Album",
+        "Box Set",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Grubenwehr Freiburg"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Experimental",
+        "Noise"
+      ],
+      "id": 33035826,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3742374,
+      "master_url": "https://api.discogs.com/masters/3742374",
+      "uri": "/release/33035826-tbc-Hex-Vortex-Verweigerung",
+      "catno": "GW/FR:54",
+      "title": "tbc*, Hex Vortex - Verweigerung",
+      "thumb": "https://i.discogs.com/rQV0lpD14nWjTuGAJj_YBstUeSAbA7l3wSYsUlX0MO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDM1/ODI2LTE3Mzg3MzI0/NDYtOTUyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Jso6lQ4KfMCMQxhiCzWM8fLgmi_idVxhYHW5xvAaYqc/rs:fit/g:sm/q:90/h:1006/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDM1/ODI2LTE3Mzg3MzI0/NDYtOTUyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33035826",
+      "community": {
+        "want": 1,
+        "have": 7
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Single"
+      ],
+      "label": [
+        "Tomasko Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "House"
+      ],
+      "id": 32866566,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32866566-Melissa-Tkautz-Not-Enough",
+      "catno": "none",
+      "title": "Melissa Tkautz - Not Enough",
+      "thumb": "https://i.discogs.com/fE0LyWX7Oqp6uylSGsE8fsA9o2rxsnJ1OCiMhMWc_Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODY2/NTY2LTE3MzcxMDM0/NTgtNDU1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xnkNGHFCQPLk0tslXXY1Z2-9wirg4fUPY0PEknpMOkY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODY2/NTY2LTE3MzcxMDM0/NTgtNDU1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32866566",
+      "community": {
+        "want": 0,
+        "have": 8
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "3",
+          "descriptions": [
+            "FLAC",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label (Master Spy Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Power Metal"
+      ],
+      "id": 33093615,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3773621,
+      "master_url": "https://api.discogs.com/masters/3773621",
+      "uri": "/release/33093615-Master-Spy-Maze-Runner",
+      "catno": "none",
+      "title": "Master Spy - Maze Runner",
+      "thumb": "https://i.discogs.com/8yOzCepA7X4AVn2HCeRgoGQoidtspL1OZqHS_Us5uZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDkz/NjE1LTE3MzkxMjc0/NTMtMzY3Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5hYX5uNpfHoufC-MRPHki6trQLpgfmsKEJhSeAMtieM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDkz/NjE1LTE3MzkxMjc0/NTMtMzY3Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33093615",
+      "community": {
+        "want": 1,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "7",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Single"
+      ],
+      "label": [
+        "I Venti d'Azzurro Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Italo-Disco"
+      ],
+      "id": 33278043,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3766953,
+      "master_url": "https://api.discogs.com/masters/3766953",
+      "uri": "/release/33278043-Reeds-Lost-In-Paradise",
+      "catno": "VAM 2045",
+      "title": "Reeds - Lost In Paradise",
+      "thumb": "https://i.discogs.com/M2d3BFiG0Lzr9fNVtxssmzgaaPjZ-AqZGIlYnvoGiyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjc4/MDQzLTE3NDA3ODkx/NjQtNDY2Ny5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/1GRMCZ8tTGrcGPOsvCGB5ltucpcQZbBvuex8aoNNZeY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjc4/MDQzLTE3NDA3ODkx/NjQtNDY2Ny5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33278043",
+      "community": {
+        "want": 0,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "3",
+          "descriptions": [
+            "FLAC",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Switzerland",
+      "year": "2025",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Backseat"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "id": 33275859,
+      "barcode": [
+        "198588649862",
+        "www.handlewithcare.de BAKST46CD1 AO25000-01",
+        "IFPI L576",
+        "IFPI 9706"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3766686,
+      "master_url": "https://api.discogs.com/masters/3766686",
+      "uri": "/release/33275859-Gina-%C3%89t%C3%A9-Prosopagnosia",
+      "catno": "BAKST46CD1",
+      "title": "Gina Été - Prosopagnosia",
+      "thumb": "https://i.discogs.com/a1Tc5SO9cPbKmb4Oi7XpDM7lDDcq4xKs0SvneFaXE1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjc1/ODU5LTE3NDA3NzMy/OTMtMjk2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/WZoEBRYuUJUD_j0uZaFosH3GhBh2qD5yPUAu0LRVfuA/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjc1/ODU5LTE3NDA3NzMy/OTMtMjk2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33275859",
+      "community": {
+        "want": 0,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Dunk!Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Post Rock",
+        "Alternative Metal",
+        "Post-Metal"
+      ],
+      "id": 33160233,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3768729,
+      "master_url": "https://api.discogs.com/masters/3768729",
+      "uri": "/release/33160233-Astodan-Dirges",
+      "catno": "none",
+      "title": "Astodan - Dirges",
+      "thumb": "https://i.discogs.com/HNWu_J72_sKSblFUYpuU8tHBAxbRlxH8jxUJ-vn7fmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTYw/MjMzLTE3Mzk3Mzkw/MTQtOTE5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/o3kiMFkJLzuz-bE62Y6VFF8W10EORURIiPZeEWkENQU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTYw/MjMzLTE3Mzk3Mzkw/MTQtOTE5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33160233",
+      "community": {
+        "want": 0,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Not On Label (Steve Roach Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Ambient",
+        "Drone",
+        "Tribal"
+      ],
+      "id": 32758386,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3709797,
+      "master_url": "https://api.discogs.com/masters/3709797",
+      "uri": "/release/32758386-Steve-Roach-Factors-Unknown",
+      "catno": "none",
+      "title": "Steve Roach - Factors Unknown",
+      "thumb": "https://i.discogs.com/0efdpZdzin2x9k7Z72GdMoAJYhp0pRoj0fV9KXcpI4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzU4/Mzg2LTE3MzYwNzcw/NzAtNTQwNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/898WOz3MsekIiAGzTMTvYXKa5bjcjNnN-aOK-_WzmVc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzU4/Mzg2LTE3MzYwNzcw/NzAtNTQwNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32758386",
+      "community": {
+        "want": 1,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "3",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "7\""
+      ],
+      "label": [
+        "diy"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Reggae"
+      ],
+      "style": [
+        "Dancehall",
+        "Bass Music",
+        "Experimental"
+      ],
+      "id": 32787498,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32787498-Taymour-Skeng-Skeng-Bootlegs",
+      "catno": "diyDP-001",
+      "title": "Taymour, Skeng - Skeng Bootlegs",
+      "thumb": "https://i.discogs.com/_uMG9l1A2IifY87vGGgWCGU7z8F__78Of2OaK3sYbOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzg3/NDk4LTE3MzYzNDk3/NDctOTY1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MBb5UNDZvgX3o4EJQgTRd-otqKOPx1YIAhngUr7kkRE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzg3/NDk4LTE3MzYzNDk3/NDctOTY1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32787498",
+      "community": {
+        "want": 13,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\""
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Canada",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Limited Edition"
+      ],
+      "label": [
+        "NYC Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Acid House",
+        "Balearic",
+        "Italo House",
+        "Italo-Disco",
+        "Nu-Disco",
+        "Synthwave"
+      ],
+      "id": 32844129,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3743844,
+      "master_url": "https://api.discogs.com/masters/3743844",
+      "uri": "/release/32844129-Windy-City-Acid-WashAcid-Dry",
+      "catno": "NYC016",
+      "title": "Windy City (4) - Acid Wash/Acid Dry",
+      "thumb": "https://i.discogs.com/RPKFOBAZ_jLKgzNFqxDcCDaADqc0PijWb171CDLAwz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/MTI5LTE3MzY4Nzc5/MDItNjkzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/RvRpntUI7oU-YP8KjOOWHtuzereb6PlTrMuJeBodOhI/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/MTI5LTE3MzY4Nzc5/MDItNjkzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32844129",
+      "community": {
+        "want": 4,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Vinyl del Blanc (White) (Bandcamp Exclusive)",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "10\"",
+        "45 RPM"
+      ],
+      "label": [
+        "Not On Label"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Drum n Bass",
+        "Hardcore",
+        "Jungle"
+      ],
+      "id": 33205602,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33205602-Cash-Kru-Da-Loan-Sharks-Peer-Pressure-Runnin",
+      "catno": "none",
+      "title": "Cash Kru / Da Loan Sharks - Peer Pressure / Runnin",
+      "thumb": "https://i.discogs.com/Bk7CFk8o5C4lgQM47tr-OVz6B7oKBpGSx0zXzx8-Gc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjA1/NjAyLTE3NDAxNDUx/MzctNzExMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hi3SxCMftoKlJorFIkIOl39TR2r_6uZgN7d_Xeidn2Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjA1/NjAyLTE3NDAxNDUx/MzctNzExMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33205602",
+      "community": {
+        "want": 3,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Lathe Cut",
+          "descriptions": [
+            "10\"",
+            "45 RPM"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Tomorrowland Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Progressive Trance"
+      ],
+      "id": 33011481,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33011481-Kasia-23-Ayla-Ayla",
+      "catno": "TML203",
+      "title": "Kasia (23), Ayla - Ayla",
+      "thumb": "https://i.discogs.com/KBdR4QIZP-u_zJc4QItYnaVhwEQ9ZYwu_Ny_TY3VjvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDEx/NDgxLTE3MzgzNjI5/MDAtNDA4My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/RiYNwy_YftaWAX4gPnoSSZT9a3W0FcXNglo5iaYSqwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDEx/NDgxLTE3MzgzNjI5/MDAtNDA4My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33011481",
+      "community": {
+        "want": 1,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Harthouse"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Techno"
+      ],
+      "id": 32874024,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32874024-Boris-Brejcha-Die-Maschine-Auf-Diskette-2",
+      "catno": "HHBER113",
+      "title": "Boris Brejcha - Die Maschine Auf Diskette 2",
+      "thumb": "https://i.discogs.com/RblyOv4CRE2sbzbn9vXbgG2Y2B12_F-uhGHo1ih_Tfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc0/MDI0LTE3MzcxNTU2/OTktMzUzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/YCUJ2AY9t9fgHM5_7-NMjC8sXsVY3KOviPtTXfW1NeM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc0/MDI0LTE3MzcxNTU2/OTktMzUzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32874024",
+      "community": {
+        "want": 2,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "Cassette",
+        "EP",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label",
+        "Midwest Color Labs",
+        "Midwest Color Labs"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Experimental",
+        "Industrial",
+        "Noise"
+      ],
+      "id": 32849913,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32849913-Grey-Tissue-Sunday-School",
+      "catno": "No Number",
+      "title": "Grey Tissue - Sunday School",
+      "thumb": "https://i.discogs.com/7PFJaQ9o60j3vU9y3gTJM44L8IxwZ7j25cpAGNtQRTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ5/OTEzLTE3MzY5NDk1/ODYtMjYwOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/d8vHsQnY612UKohkFkyHW9AHr4uMfbXnhnt-TYVyJig/rs:fit/g:sm/q:90/h:385/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ5/OTEzLTE3MzY5NDk1/ODYtMjYwOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32849913",
+      "community": {
+        "want": 1,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "EP",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (Hap A Damwain Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "id": 32986215,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32986215-Hap-A-Damwain-Diwedd-Hanes",
+      "catno": "H&D004",
+      "title": "Hap A Damwain - Diwedd Hanes",
+      "thumb": "https://i.discogs.com/VGN5o2cTB1RREtG_hgyb9pIl5OXTrZhJ09FP-mBE8u4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTg2/MjE1LTE3MzgxNjE3/ODgtODA4NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jdu8W12EEIeB7ba76LYwk7Zcmi7cM32nzC08k0vA12Q/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTg2/MjE1LTE3MzgxNjE3/ODgtODA4NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32986215",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "MCMLXV"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Dub Techno"
+      ],
+      "id": 32948271,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32948271-JSZeiter-Loop-Restless",
+      "catno": "ST-004",
+      "title": "J.S.Zeiter - Loop / Restless",
+      "thumb": "https://i.discogs.com/6xBWfBdA_C6uhxhJLGUapzuQolbcclKN07sUS5wKLEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQ4/MjcxLTE3Mzc4MTY0/MjUtOTg4My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Zou67LDMhIeKdRGkWPcr4tpmmBp1NHwMHz4DgsEtHWg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQ4/MjcxLTE3Mzc4MTY0/MjUtOTg4My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32948271",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Limited Edition"
+      ],
+      "label": [
+        "Indolent Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Punk",
+        "Pop Rock"
+      ],
+      "id": 32985597,
+      "barcode": [
+        "5061024580621"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32985597-another-one-Never-Again",
+      "catno": "IR002",
+      "title": "another one (2) - Never Again",
+      "thumb": "https://i.discogs.com/xmRWxwUF90TIr-lq_iCm4GAgb0x6U84fSljw2sG86wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTg1/NTk3LTE3MzgxNDky/MjUtMjA1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/uXTO_CmaLFWfGv26mH7yEiH7jE9dhGY4T-X0gngV1EQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTg1/NTk3LTE3MzgxNDky/MjUtMjA1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32985597",
+      "community": {
+        "want": 0,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Switzerland",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3",
+        "Maxi-Single"
+      ],
+      "label": [
+        "Sonaxx Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Techno",
+        "Hard Techno",
+        "Trance",
+        "Hard Trance"
+      ],
+      "id": 32953632,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3732903,
+      "master_url": "https://api.discogs.com/masters/3732903",
+      "uri": "/release/32953632-Andreas-Kraemer-Pull-2025-Part-1",
+      "catno": "SR229",
+      "title": "Andreas Kraemer* - Pull 2025 Part 1",
+      "thumb": "https://i.discogs.com/smXm7L4944-0cRlovT5rZ0S9H943hfesBnMARF2wadU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTUz/NjMyLTE3Mzc4NTMz/MTYtOTE5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PYG83gzpfxITy_As9Raai4cCoPu8mbi1pmlMOSwdqpE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTUz/NjMyLTE3Mzc4NTMz/MTYtOTE5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32953632",
+      "community": {
+        "want": 1,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "5",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Maxi-Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Portugal",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3",
+        "Mixtape"
+      ],
+      "label": [
+        "Enough Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Ambient",
+        "Industrial",
+        "EBM"
+      ],
+      "id": 33343829,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3773933,
+      "master_url": "https://api.discogs.com/masters/3773933",
+      "uri": "/release/33343829-ps-Enough-Records-Radio-Show-109",
+      "catno": "enrshow109",
+      "title": "ps - Enough Records Radio Show #109",
+      "thumb": "https://i.discogs.com/H0IpDnHTUeuxst-EbrI1PxcyEVp8JRSybVKIh6V_hHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQz/ODI5LTE3NDE0MDQ2/ODYtNDg0NS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/HDq4wyLQKwjQV1J47ER_EQ4m_1Bgo-4LhwnoJMUaR3M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQz/ODI5LTE3NDE0MDQ2/ODYtNDg0NS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33343829",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "192 kbps",
+          "descriptions": [
+            "MP3",
+            "Mixtape"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Portugal",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Enough Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Ambient",
+        "Experimental"
+      ],
+      "id": 33343112,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3773837,
+      "master_url": "https://api.discogs.com/masters/3773837",
+      "uri": "/release/33343112-Imagine-Enigmas-Cyberpunk-Logics",
+      "catno": "enrmp543",
+      "title": "Imagine Enigmas - Cyberpunk Logics",
+      "thumb": "https://i.discogs.com/OdJNKE3Hw56CS0fFWNGrQMXlL28gX0bSe_5OtkOunGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQz/MTEyLTE3NDEzOTQy/NjAtOTA4My5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/VHomKaJN9vktKoleS1CyI7sqb2j8uddessxJGewu2as/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQz/MTEyLTE3NDEzOTQy/NjAtOTA4My5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33343112",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "8",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "Not On Label (Trevor Something Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Darkwave"
+      ],
+      "id": 33341783,
+      "barcode": [
+        "QZES52561403"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33341783-Trevor-Something-Numb-The-Pain",
+      "catno": "none",
+      "title": "Trevor Something - Numb The Pain",
+      "thumb": "https://i.discogs.com/1O71WieBVwsYdkbeYbXkW8RJdkAnVnpdMQoip_oMy4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQx/NzgzLTE3NDEzODI1/MDEtNzg3NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Ae6XOHq9tRihMI1L3dC4rEkx0IKWVnRC09hPW5USFFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQx/NzgzLTE3NDEzODI1/MDEtNzg3NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33341783",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label (Top$ide Self-released)",
+        "Not On Label (Shaudy Kash Self-released)",
+        "Topside Records LLC",
+        "The 4"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 33335705,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33335705-Topide-Shaudy-Kash-On-The-Yeah-Side-Deluxe",
+      "catno": "none",
+      "title": "Top$ide & Shaudy Kash - On The Yeah Side (Deluxe)",
+      "thumb": "https://i.discogs.com/OEuvAlZ4THwGQ7KOhJ0tW-CiJd1Jz9N6GiPQy4YoxIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzM1/NzA1LTE3NDEzNTA5/NTYtNDUwMS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/RUx1_LGPwdd0WnM23-fnauPMca31jRexeUlUVJSIPjM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzM1/NzA1LTE3NDEzNTA5/NTYtNDUwMS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33335705",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "VBR",
+          "descriptions": [
+            "MP3",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Finland",
+      "year": "2025",
+      "format": [
+        "File",
+        "ogg-vorbis",
+        "Album"
+      ],
+      "label": [
+        "Kahvi Collective",
+        "Kahvi Collective"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "IDM",
+        "Ambient",
+        "Experimental"
+      ],
+      "id": 33333062,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3772778,
+      "master_url": "https://api.discogs.com/masters/3772778",
+      "uri": "/release/33333062-Abjective-Dream-Cast",
+      "catno": "#491",
+      "title": "Abjective - Dream Cast",
+      "thumb": "https://i.discogs.com/Xjw7-lB8PnxuPM2nbYumDqTDn9raHaCv4CnUFG4Kfx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzMz/MDYyLTE3NDEzMDE2/NDMtOTEzOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/1r2LvjwMvE62018GvqSDPNpUTool0lZy31olOYyqfkw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzMz/MDYyLTE3NDEzMDE2/NDMtOTEzOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33333062",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "7",
+          "descriptions": [
+            "ogg-vorbis",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2025",
+      "format": [
+        "CD",
+        "Stereo"
+      ],
+      "label": [
+        "Entre Terreau et Beryllium"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "id": 33331500,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33331500-Valentin-Becmann-Thierry-Riboulet-Song-for-Lulu",
+      "catno": "ET&B #0003 STEREO",
+      "title": "Valentin Becmann, Thierry Riboulet - Song for Lulu",
+      "thumb": "https://i.discogs.com/tJE2pp6wy58iWsFMbPIdyy5rkOtf0Oqgi66iAuVigdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzMx/NTAwLTE3NDEyODk2/NzYtNzQ5OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/85Kc6nHMbrFArR9YoBeNtwtC-fqaFFWu0AZypTCD2UM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzMx/NTAwLTE3NDEyODk2/NzYtNzQ5OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33331500",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Audiophile",
+          "descriptions": [
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "EP"
+      ],
+      "label": [
+        "Filipe Santos Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Acid",
+        "Techno"
+      ],
+      "id": 33331344,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33331344-Accent-Junction-The-Inevitable-EP",
+      "catno": "none",
+      "title": "Accent Junction - The Inevitable EP",
+      "thumb": "https://i.discogs.com/5WU7apQ1G469ZQRSSwXxB7YBezEXJ3uqEETryaxIkuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzMx/MzQ0LTE3NDEyODg0/NDEtMzYwMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DkKyUKQ5pcKOpGoNNX5wXtMnrSTO9-LIuMxhG-8TluI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzMx/MzQ0LTE3NDEyODg0/NDEtMzYwMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33331344",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "descriptions": [
+            "WAV",
+            "EP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2025",
+      "format": [
+        "File",
+        "AAC",
+        "Single",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label (Carolina Sauter Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Dance-pop"
+      ],
+      "id": 33328992,
+      "barcode": [
+        "199078914897"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33328992-Carolina-Sauter-Carodiscomouse",
+      "catno": "CYSRDD-2025-02",
+      "title": "Carolina Sauter - Carodiscomouse",
+      "thumb": "https://i.discogs.com/aAwAmBPubrDWhK9vbKn5ioj7TiYGhmvCGoQAk0-_6F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI4/OTkyLTE3NDEyNzE3/ODQtMTkxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MBmm_W7BbrHVm1FLgL18hl508dGQE-lPPSopPkQvPWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI4/OTkyLTE3NDEyNzE3/ODQtMTkxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33328992",
+      "community": {
+        "want": 0,
+        "have": 0
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "AAC",
+            "Single",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "Knotweed Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Techno"
+      ],
+      "id": 33325314,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3771990,
+      "master_url": "https://api.discogs.com/masters/3771990",
+      "uri": "/release/33325314-Myk-Derill-Automatic-Theory",
+      "catno": "KW060",
+      "title": "Myk Derill - Automatic Theory",
+      "thumb": "https://i.discogs.com/UPwUmyvpZ59DCZvJqUbcgmSWooVX41cCy04YqO_JmDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI1/MzE0LTE3NDEyMzA1/NDEtOTcxMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Vwlj5TTIx7VyiYcI1CijDqP1kXjgA8Q1wAfDFcj_HfQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI1/MzE0LTE3NDEyMzA1/NDEtOTcxMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33325314",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "4",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "Revamp"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Italodance"
+      ],
+      "id": 33319980,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3771402,
+      "master_url": "https://api.discogs.com/masters/3771402",
+      "uri": "/release/33319980-Love-Removal-Machine-Featuring-Hot-Lips-The-Way-To-Find-Your-Love-Tubular-Remix",
+      "catno": "REVAMPKLFSDR 9504C",
+      "title": "Love Removal Machine Featuring Hot Lips (4) - The Way To Find Your Love (Tubular Remix)",
+      "thumb": "https://i.discogs.com/_0TysA6O0-TpImQwC-xHU55I_iYybVR2ANEhv2lGrBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzE5/OTgwLTE3NDExODQ2/NzUtMjI1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xSpu8oqrQ99Xgj1z0GqNltu3-faIOzKdlZEAKZa_muY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzE5/OTgwLTE3NDExODQ2/NzUtMjI1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33319980",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Czech Republic",
+      "year": "2025",
+      "format": [
+        "Lathe Cut",
+        "7\"",
+        "Single",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Not On Label (Steelfaith Self-released)",
+        "Babylon Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Power Metal"
+      ],
+      "id": 33319440,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3771312,
+      "master_url": "https://api.discogs.com/masters/3771312",
+      "uri": "/release/33319440-Steelfaith-Na-K%C5%99%C3%ADdlech-%C5%A0%C3%ADlenstv%C3%AD-Dilema",
+      "catno": "none",
+      "title": "Steelfaith - Na Křídlech Šílenství / Dilema",
+      "thumb": "https://i.discogs.com/mzgnKpC5hwQk9aOaXBAP00TvFYx1mTDE4PlySdWFBOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzE5/NDQwLTE3NDExODEx/MTMtMzA0MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PBZq7eT8LSBbX9cCPe10Z7fhkRfQPyhgXtjeqGuYl2Y/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzE5/NDQwLTE3NDExODEx/MTMtMzA0MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33319440",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Lathe Cut",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "Single",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Russia",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3",
+        "Single"
+      ],
+      "label": [
+        "Camusov records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Post Rock",
+        "Shoegaze",
+        "Post-Punk"
+      ],
+      "id": 33311061,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33311061-The-Camusov-AzZzA-%D0%9D%D0%B8%D1%89%D0%B8%D0%B9",
+      "catno": "none",
+      "title": "The Camusov, AzZzA - Нищий",
+      "thumb": "https://i.discogs.com/iDpQrExwuYTflNeUus_jJZ1_tPiO0bGRTFOsQHJVHQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzEx/MDYxLTE3NDEwOTc4/MDEtNTYyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZtiO2Z7gj1oNd-hMZxnRDSeRJo8KnHRKSIQuXuH9Ne0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzEx/MDYxLTE3NDEwOTc4/MDEtNTYyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33311061",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "MP3",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2025",
+      "format": [
+        "File",
+        "AIFF",
+        "MP3",
+        "WAV",
+        "EP",
+        "Stereo"
+      ],
+      "label": [
+        "Richelieu"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Ambient",
+        "IDM"
+      ],
+      "id": 33310740,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33310740-Richelieu-Am-Extract-Point",
+      "catno": "RICH002",
+      "title": "Richelieu (2) - Am Extract Point",
+      "thumb": "https://i.discogs.com/bkY7X5k69hWhMtIpmaSRtfUsoErPMi_9JUCMyPMSwiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzEw/NzQwLTE3NDEwOTQ3/ODEtMTU5OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZXc6kw5tVvhwKwDYQ5jF1Z1g-PbUyvH9GUR0AHVwNJY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzEw/NzQwLTE3NDEwOTQ3/ODEtMTU5OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33310740",
+      "community": {
+        "want": 0,
+        "have": 0
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "AIFF",
+            "MP3",
+            "WAV",
+            "EP",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "99 Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Jungle"
+      ],
+      "id": 33305907,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33305907-DJ-Magic-Touch-Neekeetone-Little-City",
+      "catno": "99REC 17",
+      "title": "DJ Magic Touch / Neekeetone - Little City",
+      "thumb": "https://i.discogs.com/Tvg87dtAIk4028lcdenDxY-O-PkDgiQutG7wlPrGJKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzA1/OTA3LTE3NDEwMzc1/MjAtODgzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bG1iCDCt4wIhk0DPzs1nzsEuRoCwdVcSnXmomRfy-KU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzA1/OTA3LTE3NDEwMzc1/MjAtODgzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33305907",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Rated Records",
+        "Rated Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Trance"
+      ],
+      "id": 33301116,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33301116-Chris-Hunt-Overdrive-Solo",
+      "catno": "RRD136",
+      "title": "Chris Hunt (18) - Overdrive / Solo",
+      "thumb": "https://i.discogs.com/qLnlvN5P9TMQ6dpLd-cMe2WIGNAibMKsa8a0K1j6q0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzAx/MTE2LTE3NDEwMDEw/MTktODczMi5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/wV4UFvNT141ceXn0G_XgUiGQ8w_f97aiw185CwUBCn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzAx/MTE2LTE3NDEwMDEw/MTktODczMi5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33301116",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "Treetrunk Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Experimental",
+        "Ambient"
+      ],
+      "id": 33296046,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33296046-Thomas-Park-In-The-Heart-Of-The-Divide",
+      "catno": "treetrunk 814",
+      "title": "Thomas Park - In The Heart Of The Divide",
+      "thumb": "https://i.discogs.com/iyUyv0Ag0BOoXG9Hp0mqKMJ2dCKOKGeilPLAbFsAqa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjk2/MDQ2LTE3NDA5NDUz/NDYtNzA1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lKuZy16JH6795zmRbBNWtfQvCkrghbtk52t0KtNwP_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjk2/MDQ2LTE3NDA5NDUz/NDYtNzA1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33296046",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "8",
+          "text": "24bit",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "EP",
+        "Reissue"
+      ],
+      "label": [
+        "DuPage County Hardcore"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Hardcore"
+      ],
+      "id": 33295770,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3768816,
+      "master_url": "https://api.discogs.com/masters/3768816",
+      "uri": "/release/33295770-Angerhouse-Let-Your-Anger-Take-Its-Toll",
+      "catno": "none",
+      "title": "Angerhouse - Let Your Anger Take It's Toll",
+      "thumb": "https://i.discogs.com/UddwbvFHHDUW6tEpSjV_3iMltQGMClPRmeZaBEMHqso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjk1/NzcwLTE3NDA5NDM2/NDItNzUyMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5dzyKrxCeQeLAC0r4dBTijMiWkiXHA0ACkM5r-IY2Z8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjk1/NzcwLTE3NDA5NDM2/NDItNzUyMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33295770",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "5",
+          "descriptions": [
+            "FLAC",
+            "EP",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Mexico",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Single",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label",
+        "amuse.io",
+        "Condesa Estudio",
+        "Condesa Estudio",
+        "Grey Market Mastering",
+        "Tenebris Pixel",
+        "TimeMachine Studio"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock",
+        "Pop Rock",
+        "Soft Rock",
+        "Folk Rock"
+      ],
+      "id": 33292224,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33292224-OctoPolar-En-Llamas",
+      "catno": "none",
+      "title": "OctoPolar - En Llamas",
+      "thumb": "https://i.discogs.com/sfhnjt3s8Zt2dbxSdXEhY92mQx6qbQ-XnZfu4Im8QMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjky/MjI0LTE3NDA5MjA0/NTYtNTk1Ni5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/-bjT9aOfP3nbhDikyLntOzIC_kZe7zYbFQphPRuBGTU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjky/MjI0LTE3NDA5MjA0/NTYtNTk1Ni5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33292224",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "WAV",
+            "Single",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Bassivity Digital"
+      ],
+      "type": "release",
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Rhythm & Blues"
+      ],
+      "id": 33285489,
+      "barcode": [
+        "iw6mvmruvie3a"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33285489-Senidah-Live-from-Belgrade-Live-from-Belgrade",
+      "catno": "none",
+      "title": "Senidah - Live from Belgrade (Live from Belgrade)",
+      "thumb": "https://i.discogs.com/4f8SC-VUaVYIcbtiZwXbJQrGPmXUPWMLEPqVov47rTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjg1/NDg5LTE3NDA4NTM4/NDctMzkzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/E1WI8hhA-VOyTa29I3gbQ60UFcZMR1UKCz-uldbnZ-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjg1/NDg5LTE3NDA4NTM4/NDctMzkzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33285489",
+      "community": {
+        "want": 1,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "27",
+          "text": "16-Bit/44.1 kHz",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Reissue"
+      ],
+      "label": [
+        "DuPage County Hardcore"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Emo"
+      ],
+      "id": 33285189,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33285189-By-Any-Means-2004-Demo",
+      "catno": "none",
+      "title": "By Any Means (6) - 2004 Demo",
+      "thumb": "https://i.discogs.com/77jWKoVvPmZ-LmeekH9-3xGwnTf0DfewzxYvD8s_bKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjg1/MTg5LTE3NDA4NTE1/MzEtODQwNy5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/U0-U66QoT4WJjxgg0UkZU_J3rsSrMTzOIGYTEoLRbJ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjg1/MTg5LTE3NDA4NTE1/MzEtODQwNy5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33285189",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "3",
+          "descriptions": [
+            "FLAC",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "EP",
+        "Reissue"
+      ],
+      "label": [
+        "DuPage County Hardcore"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Punk"
+      ],
+      "id": 33284895,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3767682,
+      "master_url": "https://api.discogs.com/masters/3767682",
+      "uri": "/release/33284895-Snap-Judgement-Filth",
+      "catno": "none",
+      "title": "Snap Judgement - Filth",
+      "thumb": "https://i.discogs.com/GkgGl3sQMzzaS5zoVgfL7GQR5u4uo6DDBrw-bNAiYjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjg0/ODk1LTE3NDA4NDk2/OTUtNzEzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NSqY05YJiOwOBwwr2jfMSs8swPOrSj9gM3m8hel2Bm8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjg0/ODk1LTE3NDA4NDk2/OTUtNzEzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33284895",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "4",
+          "descriptions": [
+            "FLAC",
+            "EP",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Malaysia",
+      "year": "2025",
+      "format": [
+        "CDr",
+        "Album"
+      ],
+      "label": [
+        "Sonic Amok Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Grindcore",
+        "Noisecore"
+      ],
+      "id": 33281910,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33281910-Dosa-Live-At-Perakman-Attack-Vol-3",
+      "catno": "CDR 001 - 2025",
+      "title": "Dosa - Live At Perakman Attack Vol 3",
+      "thumb": "https://i.discogs.com/njPfoKe5SuZD0tb8vEKLSzZTa7_MfNkRPcdb4kEGdrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjgx/OTEwLTE3NDA4NDc1/MjQtMjMwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-4nP0qjdveWseefiXeefBW0P7_pCI9UZXb1jxsHhFik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjgx/OTEwLTE3NDA4NDc1/MjQtMjMwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33281910",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Compilation",
+        "Reissue"
+      ],
+      "label": [
+        "DuPage County Hardcore"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Punk"
+      ],
+      "id": 33277950,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3766941,
+      "master_url": "https://api.discogs.com/masters/3766941",
+      "uri": "/release/33277950-Various-Fourth-Annual-Free-Fest-Crest-Hill-Chicago-August-13-14-15-1993",
+      "catno": "none",
+      "title": "Various - Fourth Annual Free Fest [Crest Hill / Chicago; August 13, 14, 15, 1993]",
+      "thumb": "https://i.discogs.com/A5FJkI75lmbEEU10zBRrKZGBCqPLcybxH2jkckzx0yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjc3/OTUwLTE3NDA3ODgz/MTAtODQ4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HUh2O8IuoJ6xei4RkW13xqkOmqu_ijI04wGvknEaJPQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjc3/OTUwLTE3NDA3ODgz/MTAtODQ4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33277950",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "descriptions": [
+            "FLAC",
+            "Compilation",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Toccata Classics",
+        "Toccata Classics",
+        "Toccata Classics",
+        "Church Of St. Silas The Martyr, Kentish Town",
+        "SJE Arts, Oxford",
+        "Sonopress"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Contemporary"
+      ],
+      "id": 33273906,
+      "barcode": [
+        "5 060113 447494",
+        "LC 14674",
+        "[Sonopress Logo] 58545983/TOCC0749 23",
+        "IFPI LP 73",
+        "DDD",
+        "GEMA"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33273906-Noah-MaxTippett-Quartet-Michael-Morpurgo-String-Quartets",
+      "catno": "TOCC 0749",
+      "title": "Noah Max, The Tippett Quartet*, Michael Morpurgo - String Quartets",
+      "thumb": "https://i.discogs.com/GRdUpdhcDM1ywwFkX9Hd_0Fy5Obu9fboeQcoaB0_b94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjcz/OTA2LTE3NDA3NjM2/NDYtMjUyNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/mzAuAkZ_lR0IHjCHAndTk-Slsp_sWJzPqv33PJRvxzQ/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjcz/OTA2LTE3NDA3NjM2/NDYtMjUyNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33273906",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2025",
+      "format": [
+        "Cassette"
+      ],
+      "label": [
+        "Team Glasses Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Hardcore"
+      ],
+      "id": 33239517,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33239517-Discount-Code-Doomed-Existence-",
+      "catno": "TG071",
+      "title": "Discount Code - Doomed Existence ",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/ed8d724fba056c961fb07aca7c0ba50858577e84/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/33239517",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "File",
+        "AIFF",
+        "MP3",
+        "WAV",
+        "EP",
+        "Stereo"
+      ],
+      "label": [
+        "06 Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Techno",
+        "Progressive House"
+      ],
+      "id": 33224772,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33224772-Katoff-Ancestors-Call",
+      "catno": "06REC006",
+      "title": "Katoff - Ancestors Call",
+      "thumb": "https://i.discogs.com/GgR3-YVdgEgk2nV_NbCYm5NNMwPiqGIgdr31PL0kPRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjI0/NzcyLTE3NDAzMTA2/OTUtODY4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NxcIzhVLRWUTIAdr5ndYof9Trf6buYU2pohtZIZxX_U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjI0/NzcyLTE3NDAzMTA2/OTUtODY4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33224772",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "AIFF",
+            "MP3",
+            "WAV",
+            "EP",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Stereo"
+      ],
+      "label": [
+        "Always Centered At Night",
+        "Always Centered At Night"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Tech House"
+      ],
+      "id": 33224091,
+      "barcode": [
+        "GB3AD2400124"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3760935,
+      "master_url": "https://api.discogs.com/masters/3760935",
+      "uri": "/release/33224091-Moby-Benjamin-Zephaniah-Where-Is-Your-Pride-Airrica-Remix",
+      "catno": "ACAN027",
+      "title": "Moby & Benjamin Zephaniah - Where Is Your Pride? (Airrica Remix)",
+      "thumb": "https://i.discogs.com/i26Yv2lrwJCaZUSzdtsdLP_OnTGaqPwO-krYgMCPHEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjI0/MDkxLTE3NDAzMDY1/NjYtNDY0Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-yM_3IOyvi_3lGZZ9ggLH4urxxC7R32h2fp7GZlZmIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjI0/MDkxLTE3NDAzMDY1/NjYtNDY0Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33224091",
+      "community": {
+        "want": 1,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "24-Bit, 96.0 kHz",
+          "descriptions": [
+            "FLAC",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Spain",
+      "year": "2025",
+      "format": [
+        "Cassette",
+        "Single"
+      ],
+      "label": [
+        "Drama Recorder"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Ambient",
+        "Noise"
+      ],
+      "id": 33223395,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33223395-Blissopera-Rocket-rocket-",
+      "catno": "DR089",
+      "title": "Blissopera - Rocket, rocket! ",
+      "thumb": "https://i.discogs.com/wASedxQLqIpPyYB6z93IQc4uBLAOgINCaVdalkwa-GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjIz/Mzk1LTE3NDAzMDAz/OTMtOTI2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/euXQ2txvBoeNc-u93TaGbFIHXMSTyKgokPgrSWQgiJM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjIz/Mzk1LTE3NDAzMDAz/OTMtOTI2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33223395",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Radar Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Jazz",
+        "Rock",
+        "Funk / Soul",
+        "Blues",
+        "Non-Music",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "id": 33212475,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33212475-The-Post-Modern-Dream-Molecularly-Yours",
+      "catno": "PMD02-25",
+      "title": "The Post Modern Dream - Molecularly Yours",
+      "thumb": "https://i.discogs.com/MW5E7nKx4M2PbYFjIU7aRIahk8ukX6xghCr2J-uug1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjEy/NDc1LTE3NDAxOTgy/MzMtMzU5OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FQQOvwMZeWIvPRXtCIOXfRl-i6PpTk9eADDPrT2jOds/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjEy/NDc1LTE3NDAxOTgy/MzMtMzU5OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33212475",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Canada",
+      "year": "2025",
+      "format": [
+        "CD",
+        "CD-ROM",
+        "EP"
+      ],
+      "label": [
+        "Not On Label"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Deathcore"
+      ],
+      "id": 33210531,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33210531-Decline-Of-Order-Interpretations-of-Psychopathic-Ideation",
+      "catno": "none",
+      "title": "Decline Of Order - Interpretations of Psychopathic Ideation",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/ed8d724fba056c961fb07aca7c0ba50858577e84/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/33210531",
+      "community": {
+        "want": 0,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "CD-ROM",
+            "EP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Chaotic Universe"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Hardcore"
+      ],
+      "id": 33210123,
+      "barcode": [
+        "7300343632887",
+        "SE5BU2554848"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33210123-Febro-Barred",
+      "catno": "CUL072",
+      "title": "Febro - Barred",
+      "thumb": "https://i.discogs.com/NTEyKyRyI_b-tyRD5FgkXcsTFBezIs0Vc2Egi2tuefY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjEw/MTIzLTE3NDAxNzMy/NzMtMzkwNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ofpzbUoaSnpwkOaHVsVCvI9Lg37_20hMJmLGZu_3O6o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjEw/MTIzLTE3NDAxNzMy/NzMtMzkwNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33210123",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Dave Raval Music",
+        "Distrokid"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Trance"
+      ],
+      "id": 33204882,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3759381,
+      "master_url": "https://api.discogs.com/masters/3759381",
+      "uri": "/release/33204882-Dave-Raval-Daniel-Kandi-Colourblind",
+      "catno": "none",
+      "title": "Dave Raval & Daniel Kandi - Colourblind",
+      "thumb": "https://i.discogs.com/FZ696BEOuyy3BUK74oWBbKkqgp4WwG0upCBlbIHX1Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjA0/ODgyLTE3NDAxMzk0/ODAtMzgyNS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/Unqa80AKvkPNvzlCaNdGGQZfIbljgvCogKjte5SJ6Ps/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjA0/ODgyLTE3NDAxMzk0/ODAtMzgyNS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33204882",
+      "community": {
+        "want": 1,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "3",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "The Blueprint Music Group Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 33193158,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33193158-Austiin-Za-Therapy",
+      "catno": "110888443827",
+      "title": "Austiin Za - Therapy",
+      "thumb": "https://i.discogs.com/oYlYj-O6Wy-Ywx14IoLjeJTKM8wuBgW3I13E_qUZeMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTkz/MTU4LTE3NDAwMzE2/NjgtNjc3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/E1VGeziITkz4j2LIgKGTXsLL7kAlVs7cAbCdL3uaZqY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTkz/MTU4LTE3NDAwMzE2/NjgtNjc3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33193158",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Mixed",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Techno"
+      ],
+      "id": 33162705,
+      "barcode": [
+        "https://soundcloud.com/user-16282024/solavana-delirium-podcast-e018?in=sol-a-vana/sets/podcasts"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33162705-Solavana-SOLAVANA-DELIRIUM-PODCAST-E018",
+      "catno": "none",
+      "title": "Sol'a'vana - SOL'A'VANA DELIRIUM PODCAST E018",
+      "thumb": "https://i.discogs.com/DDf8wgFocwe_KqJSoejy8Se_Y-AuZ-mSfys9y_Tly54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTYy/NzA1LTE3Mzk3NjE2/MDEtNDkxMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sX-2TmNo7z6mUunYv_5OkOZNVXthhZmtf9ZwcM1Ftdw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTYy/NzA1LTE3Mzk3NjE2/MDEtNDkxMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33162705",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "Soundcloud DJ Mix",
+          "descriptions": [
+            "WAV",
+            "Mixed",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Rated Records",
+        "Rated Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Trance"
+      ],
+      "id": 33159615,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33159615-Steve-Meyer-In-My-Mind-Back-To-Earth",
+      "catno": "RRD134",
+      "title": "Steve Meyer (9) - In My Mind / Back To Earth",
+      "thumb": "https://i.discogs.com/fWUOhAjac6ogCKWjfcsY1ekem7A_wuGiWpOaSB6VZw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTU5/NjE1LTE3Mzk3MzQ3/MTgtNzQzMS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/jVbxaDiOLIC6mfO3-EsdRmm7mihVWQnlLOwYZEWOjRo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTU5/NjE1LTE3Mzk3MzQ3/MTgtNzQzMS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33159615",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "Not On Label (Isotope Soap Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Punk",
+        "New Wave"
+      ],
+      "id": 33153891,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33153891-Isotope-Soap-Diamond-And-Arms",
+      "catno": "none",
+      "title": "Isotope Soap - Diamond And Arms",
+      "thumb": "https://i.discogs.com/umNIxnOneDgGVFqxgHjujYYp8HBl8s7eVJHf25LN-2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTUz/ODkxLTE3Mzk2OTYx/NjAtODEwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NqwScYeofmgVV-nlXKkCFoeVhuuZKI47_WjB1dV9-_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTUz/ODkxLTE3Mzk2OTYx/NjAtODEwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33153891",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Russia",
+      "year": "2025",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Remastered",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Polydor",
+        "Universal",
+        "Polydor",
+        "Universal Music AS, Norway",
+        "Talent Studio"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Prog Rock",
+        "Pop Rock"
+      ],
+      "id": 33149838,
+      "barcode": [
+        "0 44001 76292 5",
+        "044001762925",
+        "017 629-2 030109243",
+        "n©b/BIEM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 342408,
+      "master_url": "https://api.discogs.com/masters/342408",
+      "uri": "/release/33149838-Popol-Ace-Curly-Sounds",
+      "catno": "017 629 2",
+      "title": "Popol Ace - Curly Sounds",
+      "thumb": "https://i.discogs.com/eWAwR1h6he6_TSm-_g9pVn2DM6Ie9zahFxw_0hN0kRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQ5/ODM4LTE3Mzk2NDk5/NjYtMzE3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zejxC5tvm7-YisF6y7zdJfC6-uCiyGhzc8Ba4Jf5cVk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQ5/ODM4LTE3Mzk2NDk5/NjYtMzE3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33149838",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Belgium",
+      "year": "2025",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Odessa Maison D'Artistes",
+        "Odessa Maison D'Artistes",
+        "Pale Grey",
+        "Odessa Maison D'Artistes",
+        "Pale Grey",
+        "Odessa Maison D'Artistes",
+        "PIAS Benelux",
+        "Odessa Maison D'Artistes"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock"
+      ],
+      "id": 33148848,
+      "barcode": [
+        "5412690060106",
+        "2100012090285",
+        "IFPI LK97",
+        "IFPI AEW11",
+        "SABAM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33148848-Pale-Grey-It-Feels-Like-I-Always-Knew-You",
+      "catno": "OD 016",
+      "title": "Pale Grey - It Feels Like I Always Knew You",
+      "thumb": "https://i.discogs.com/G7BIOd5C1UXz2rZRiM07OEuc7oD7X4eQVvpZnll6WRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQ4/ODQ4LTE3Mzk2NDQw/MDUtNjc5OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/TS8VCHnu_UkRSjLstIXmP17HfNGAh73mayLfBEQUd3M/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQ4/ODQ4LTE3Mzk2NDQw/MDUtNjc5OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33148848",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "EP"
+      ],
+      "label": [
+        "Best Band Ever Records",
+        "Best Band Ever Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Metalcore"
+      ],
+      "id": 33148326,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3753069,
+      "master_url": "https://api.discogs.com/masters/3753069",
+      "uri": "/release/33148326-SKYLIMIT-2-Lauren-Babic-Andrew-Baena-Skylimit",
+      "catno": "none",
+      "title": "SKYLIMIT (2), Lauren Babic & Andrew Baena - Skylimit",
+      "thumb": "https://i.discogs.com/PFeBOT-MLUBhwaRelHzjcXPY5-v2ogJB4f29kdCPKLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQ4/MzI2LTE3Mzk2Mzk0/MjItOTIzOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/XbhxeWMaQ1qSa53-vI5BSCWfTNCONyCBNr3JNghXqz0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQ4/MzI2LTE3Mzk2Mzk0/MjItOTIzOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33148326",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "5",
+          "descriptions": [
+            "FLAC",
+            "EP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "Not On Label (Sorrowful Life Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Depressive Black Metal",
+        "Atmospheric Black Metal"
+      ],
+      "id": 33147975,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33147975-Sorrowful-Life-Dissociation-Souvenirs-DHiver",
+      "catno": "none",
+      "title": "Sorrowful Life, Dissociation (4) - Souvenirs D'Hiver",
+      "thumb": "https://i.discogs.com/ms4AyNjD5yw8EX7iZBiJbPWKfEYP_G8rMfFmerPwWGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQ3/OTc1LTE3Mzk2Mzcx/MDktNTY4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VW1g8509X9wcrAy_mQcsShXL6RfYcsfmwXaLbOPdK6c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQ3/OTc1LTE3Mzk2Mzcx/MDktNTY4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33147975",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "4",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Russia",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "MP3",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "CATLOWONE LABEL"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Electroacoustic",
+        "Experimental",
+        "Abstract",
+        "Industrial"
+      ],
+      "id": 33145491,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33145491-Acidether-Rolling-Eye-Drops",
+      "catno": "none",
+      "title": "Acidether - Rolling Eye Drops",
+      "thumb": "https://i.discogs.com/o3GPOz5EPlyUzZHzSsecnkgobDqD06ilEhMtuPYRVDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQ1/NDkxLTE3Mzk2MTk2/NzMtMTYyMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/uI7_A1imsEs2OretYHUnsuxp1T7faQsz7BUSszcaWgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTQ1/NDkxLTE3Mzk2MTk2/NzMtMTYyMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33145491",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "FLAC",
+            "MP3",
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "Not On Label (Scott Lawlor Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Ambient",
+        "Experimental"
+      ],
+      "id": 33139296,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33139296-Scott-Lawlor-Cold-And-Clear",
+      "catno": "none",
+      "title": "Scott Lawlor - Cold And Clear",
+      "thumb": "https://i.discogs.com/gs79nGKLihMtZrkNYkliYRxpkZqnmWtT-HYg3OsiS00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM5/Mjk2LTE3Mzk1NTMx/MzUtODk2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UjFomj47_lDdgMviwMk-JRRpc-DlBmu3KTQK-otEnuU/rs:fit/g:sm/q:90/h:767/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM5/Mjk2LTE3Mzk1NTMx/MzUtODk2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33139296",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "8",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Russia",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Single"
+      ],
+      "label": [
+        "FlipCube Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Breaks",
+        "Progressive Breaks"
+      ],
+      "id": 33135300,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33135300-4Mal-X-Max-Lyazgin-The-One-Alfoa-Remix",
+      "catno": "FLIPCUBE070",
+      "title": "4Mal X Max Lyazgin - The One (Alfoa Remix)",
+      "thumb": "https://i.discogs.com/NqtxBm7D8pviDfSjFXP7r5RbALka6p7xvptHMcEWHrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM1/MzAwLTE3Mzk1MjY2/OTAtNjA4My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3jpAa9fdgwP2mdbfL8eNcp4Q0FTGkKJh3PJlK2Nm9IE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM1/MzAwLTE3Mzk1MjY2/OTAtNjA4My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33135300",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "descriptions": [
+            "WAV",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Single"
+      ],
+      "label": [
+        "CTG Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Punk",
+        "Emo",
+        "Post-Hardcore",
+        "Prog Rock"
+      ],
+      "id": 33133827,
+      "barcode": [
+        "QZFZ62505896"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33133827-Collide-The-Gemini-Take-To-The-Skies",
+      "catno": "none",
+      "title": "Collide The Gemini - Take To The Skies",
+      "thumb": "https://i.discogs.com/852FB6ihYSG8AVi9CefuapIroS3UMFcz4IfHE9WrI4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTMz/ODI3LTE3Mzk1MDU4/NDctNDU1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kU4x2yD3X0S7aJKr_j5UQ0rwmf-W7kfZvtvPXSyVUXc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTMz/ODI3LTE3Mzk1MDU4/NDctNDU1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33133827",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "WAV",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "EP"
+      ],
+      "label": [
+        "ElasticStage.com"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Boom Bap"
+      ],
+      "id": 33120501,
+      "barcode": [
+        "5063692037667"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33120501-Hiphoppian-DJ-Len-Berzerk-Doentt-Know",
+      "catno": "5063692037667",
+      "title": "Hiphoppian DJ Len Berzerk - Doentt Know",
+      "thumb": "https://i.discogs.com/f-nMKMbH6ka8mLMg7Hp5Ip6Hw9UM43_T-StevhLHFDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTIw/NTAxLTE3MzkzODU4/MjgtNDM1Ni5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/ZIUEFJ1ZsJv4R00wORQTH4TsYCmtV9vi5Xm_ccpOljQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTIw/NTAxLTE3MzkzODU4/MjgtNDM1Ni5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33120501",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "12\"",
+            "EP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3",
+        "EP"
+      ],
+      "label": [
+        "POV Audio"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Drum n Bass"
+      ],
+      "id": 33116661,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33116661-Roki-Say-You-Want-Me-EP",
+      "catno": "POV009",
+      "title": "Roki (12) - Say You Want Me EP",
+      "thumb": "https://i.discogs.com/8fKUyic71_OB3sCjlFhxVJJLcnsehvvvNh0pP13vyLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTE2/NjYxLTE3MzkzNTU4/MzEtMTA4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/WnbGMIbLkyMqag2xJL78Exw7R_kT4Qjqcml34oIT81g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTE2/NjYxLTE3MzkzNTU4/MzEtMTA4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33116661",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "3",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "EP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "La Blue Label"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Tech House"
+      ],
+      "id": 33116574,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33116574-Caitto-La-Cintia-El-Bassline",
+      "catno": "LBL078",
+      "title": "Caitto & La Cintia - El Bassline",
+      "thumb": "https://i.discogs.com/pQrD2Om5YeLbMYTwFxLAkwCQrf-lzHV6kfvCckaLveE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTE2/NTc0LTE3MzkzNTUz/MTEtODY1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/aRs34WoSUTQEutOfdt-JuRx42-b6zouV1taGW9sjdDM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTE2/NTc0LTE3MzkzNTUz/MTEtODY1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33116574",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "File",
+        "ALAC",
+        "Single"
+      ],
+      "label": [
+        "AP DP MP Records",
+        "AP DP MP Records, LLC.",
+        "Xelon Entertainment"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Electro",
+        "Downtempo"
+      ],
+      "id": 33104523,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33104523-Richard-Steven-Socop-Digital-Chime-CFA-Remix",
+      "catno": "RSS004",
+      "title": "Richard Steven Socop - Digital Chime (CFA Remix)",
+      "thumb": "https://i.discogs.com/a8BkqLZrC-b4tACvCfhZr5XK1emeHBtTU29yGJKxgDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTA0/NTIzLTE3MzkyMjYx/NzktODk3NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SZ3pS5xMcA9yJFpIvA1EI6qW0NM0exmDPdkwKtqSSzM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTA0/NTIzLTE3MzkyMjYx/NzktODk3NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33104523",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "24-bit 192 kHz",
+          "descriptions": [
+            "ALAC",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Amen 4 Tekno"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Freetekno"
+      ],
+      "id": 33103386,
+      "barcode": [
+        "FXQ692400408"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33103386-padL-Watch-It",
+      "catno": "A4T202502",
+      "title": "padL (2) - Watch It",
+      "thumb": "https://i.discogs.com/r1bN8AKUBi4OoQQNn29fh_jsoE3alC5a2Gpe1apY9gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTAz/Mzg2LTE3MzkyMTcw/MTctMzQ2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/mXCIdZON9gCFl8yvNgb7RBBMKTu2qVo4ALcrRHoZxTI/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTAz/Mzg2LTE3MzkyMTcw/MTctMzQ2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33103386",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "EP"
+      ],
+      "label": [
+        "La Boocle"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Boom Bap",
+        "Jazzy Hip-Hop"
+      ],
+      "id": 33099012,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33099012-La-Fausse-Patte-Rc-Beatmakus-Noir-Dahlia",
+      "catno": "none",
+      "title": "La Fausse Patte, Rc Beatmakus* - Noir Dahlia",
+      "thumb": "https://i.discogs.com/iSNGheEt-VPPTqJpBcSATrO5B6-yHCMrFBQd0aU3xro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDk5/MDEyLTE3MzkxODQ4/MTktMzEyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/2fAo3Nlz20EMVAstEcjspnogjqEd5zQhygSQbcUEzfo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDk5/MDEyLTE3MzkxODQ4/MTktMzEyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33099012",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "WAV",
+            "EP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2025",
+      "format": [
+        "CD",
+        "EP"
+      ],
+      "label": [
+        "The Dandy Deads Self-released",
+        "Area Pirata",
+        "Studio Pier0, Montecatini, Italy"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Acid Rock",
+        "Garage Rock"
+      ],
+      "id": 33097947,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33097947-The-Dandy-Deads-Lower-Down",
+      "catno": "none",
+      "title": "The Dandy Deads - Lower Down",
+      "thumb": "https://i.discogs.com/XUOnsKhTLUXzH0o_tBcI8w0mvbcaehGKY-p6oaj3VWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDk3/OTQ3LTE3MzkxNzUz/OTgtNTMyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/AEMbAvEp2T-0BycXCxHw9pPP9ANJbLArPuZWbkqxVg4/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDk3/OTQ3LTE3MzkxNzUz/OTgtNTMyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33097947",
+      "community": {
+        "want": 1,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipack",
+          "descriptions": [
+            "EP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Brazil",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Stereo"
+      ],
+      "label": [
+        "Pinko Neko"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 33093273,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33093273-Horror-Deluxe-Gojira",
+      "catno": "003",
+      "title": "Horror Deluxe - Gojira",
+      "thumb": "https://i.discogs.com/eXvgChzQ_pBhIjkXJ-YkQ88a-LnLtcITVk_5JAX8JJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDkz/MjczLTE3MzkxMjUx/NDUtMzc2My5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/aOihAHb1JUf8PQ3u4T4ecUfNfCT8Dq2Vz8Zam2qY8Ek/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDkz/MjczLTE3MzkxMjUx/NDUtMzc2My5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33093273",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "descriptions": [
+            "FLAC",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Numbered",
+        "Reissue"
+      ],
+      "label": [
+        "Baardvader Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 33089514,
+      "barcode": [
+        "30549 1A 310120  xxxxxxxxxxxxxxxxx",
+        "30549 1B 310120 xxxxxxxxxxxxxxxx"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1857861,
+      "master_url": "https://api.discogs.com/masters/1857861",
+      "uri": "/release/33089514-Baardvader-Baardvader",
+      "catno": "BVDR310120RP",
+      "title": "Baardvader - Baardvader",
+      "thumb": "https://i.discogs.com/Zi13zdzl9uDd7gz4-xkvj30_OmmEUChNrlZUyHGxKKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg5/NTE0LTE3MzkwOTk0/NjUtNjUzNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/WL1WTGLzUtLZ_kB2V4sKUYjR8OEtoxH8TmTNDL8daT0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg5/NTE0LTE3MzkwOTk0/NjUtNjUzNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33089514",
+      "community": {
+        "want": 0,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Limited edition of 200 numbered",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Numbered",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3",
+        "Single"
+      ],
+      "label": [
+        "Reason II Rise UPLIFT"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Trance"
+      ],
+      "id": 33089037,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33089037-Ciro-Visone-Astral-Shock-Emblema",
+      "catno": "RRU027",
+      "title": "Ciro Visone & Astral Shock - Emblema",
+      "thumb": "https://i.discogs.com/fwyq-3GJ9XpHk8AB5G8nBwkBgxcV_EOwZjE2LsV7fTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg5/MDM3LTE3MzkwOTY0/MDctMzc1MC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/1mXnwZgf9pz6WvzRnhy9riWZLehB8z94ddObrj1wACw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg5/MDM3LTE3MzkwOTY0/MDctMzc1MC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33089037",
+      "community": {
+        "want": 1,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Single",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Electro",
+        "Fusion"
+      ],
+      "id": 33088581,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33088581-Martin-H-Unzon-Sunset-People",
+      "catno": "none",
+      "title": "Martin H Unzon - Sunset People",
+      "thumb": "https://i.discogs.com/ACaI2HWMCUmidjaApYrbLe2IOWB5S85_vON4gnU5ffA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg4/NTgxLTE3MzkwOTIy/OTQtMTQ0OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-QBvqPHhZoO-ihHhzfLn6g5NeYySLD92gO33ADNaQDk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg4/NTgxLTE3MzkwOTIy/OTQtMTQ0OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33088581",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "2.8Mbps",
+          "descriptions": [
+            "WAV",
+            "Single",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Noisj.nl",
+        "Noisj",
+        "Zero Tolerance Publishing"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Hardcore"
+      ],
+      "id": 33087939,
+      "barcode": [
+        "4067248179420",
+        "NLTC32524101",
+        "NLTC32524102",
+        "NLTC32524103",
+        "NLTC32524104",
+        "NLTC32524105",
+        "NLTC32524106",
+        "NLTC32524107",
+        "NLTC32524108"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33087939-Autist-Justice",
+      "catno": "NOISJ241",
+      "title": "Autist (5) - Justice",
+      "thumb": "https://i.discogs.com/nxXJchmTiTEuqDVSQ6UUUuIcET_0w4rEASDMXbOb-pg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg3/OTM5LTE3MzkwODMz/NDYtMTQ2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-1FbeUDgryM4-ToVe3UuY19CsiSZBzO_iH97gLXcvyk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg3/OTM5LTE3MzkwODMz/NDYtMTQ2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33087939",
+      "community": {
+        "want": 0,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "8",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label (Glitch Gum Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop"
+      ],
+      "id": 33087021,
+      "barcode": [
+        "1 98885 20201 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33087021-Glitch-Gum-Movie-Star",
+      "catno": "1 98885 20201 2",
+      "title": "Glitch Gum - Movie Star",
+      "thumb": "https://i.discogs.com/SDQ3PG8FUqMB6I4Ho_bDseRdHtnW_svdUvW-SWV4lXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg3/MDIxLTE3MzkwNjY5/NjYtNzM2My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bFHS3JI3ahFyBECMd4FeUiZDX7nNWyTfA1vUB4XBDQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg3/MDIxLTE3MzkwNjY5/NjYtNzM2My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33087021",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "180 gram",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Single"
+      ],
+      "label": [
+        "ZYX Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "House"
+      ],
+      "id": 33086901,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33086901-Nightfreaks-X-Beatrice-Ferrari-So-Long",
+      "catno": "DIG161082",
+      "title": "Nightfreaks X Beatrice Ferrari - So Long",
+      "thumb": "https://i.discogs.com/GmHCVsTHlx_uzC8AzI3rbN5t1eoMCvSQ8cViUyxU53w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg2/OTAxLTE3MzkwNjUz/ODQtMjU5My5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/HyMBr-524aYR1z5PRIFaMeLfIGFOPpr86rqVkjD0syI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg2/OTAxLTE3MzkwNjUz/ODQtMjU5My5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33086901",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "WAV",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Handwritten Records",
+        "Handwritten Records",
+        "Handwritten Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop"
+      ],
+      "id": 33081192,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33081192-KiNG-MALA-G%C3%B8d",
+      "catno": "none",
+      "title": "KiNG MALA - Gød",
+      "thumb": "https://i.discogs.com/QNHN2R5YHqQfIsTXSQISuv87gVS57EzjcK-7o4y_UfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDgx/MTkyLTE3MzkwMjQy/MzItNTk5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6t1-lX1EVO7n34LIyuFLEoYwvPbE0vJ6vjTdprcvrd4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDgx/MTkyLTE3MzkwMjQy/MzItNTk5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33081192",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Single"
+      ],
+      "label": [
+        "Not On Label (Muscle Memory Self-released)",
+        "La Piscina, Brooklyn, NY"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Synth-pop",
+        "Nu-Disco"
+      ],
+      "id": 33076608,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33076608-Muscle-Memory-Get-Lost",
+      "catno": "none",
+      "title": "Muscle Memory - Get Lost",
+      "thumb": "https://i.discogs.com/ttkVwZHgQimJKmoEruF1oxYvhZuCiIGzfbDeiE8k2_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDc2/NjA4LTE3Mzg5NzUx/NDgtNDA1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/W3Gx9nQZ3mteWy2nU6pp9DovLZjI-3ymvwCfWICUq_Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDc2/NjA4LTE3Mzg5NzUx/NDgtNDA1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33076608",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "4",
+          "text": "16-bit/44.1kHz",
+          "descriptions": [
+            "WAV",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Single"
+      ],
+      "label": [
+        "Acalwan"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "House"
+      ],
+      "id": 33075918,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33075918-L-Milla-Toms-Diner-DJ-Soulstar-Remix",
+      "catno": "DIG161094",
+      "title": "L-Milla - Tom's Diner (DJ Soulstar Remix)",
+      "thumb": "https://i.discogs.com/t9WCZrXzlkIi8-n6-k_fFNG-ul2xjlT_lo4J9FhjOxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDc1/OTE4LTE3Mzg5Njgy/MDUtMzk0Ny5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/zmC7Xx0WDdpI2duV03j5P2nkg0jZ517ii-JzkJgMoAA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDc1/OTE4LTE3Mzg5Njgy/MDUtMzk0Ny5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33075918",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "WAV",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Belgium",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Bring Me Up Tempo"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Hardcore"
+      ],
+      "id": 33072063,
+      "barcode": [
+        "674053070831",
+        "QZMHP2525254"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33072063-Sekhmet-Hardset-Next-Level",
+      "catno": "BMUT028",
+      "title": "Sekhmet Hardset - Next Level",
+      "thumb": "https://i.discogs.com/PSJoDapCtc9R6b6zO8o7CR4J8w71GmOF5vq3jHHb7R8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDcy/MDYzLTE3Mzg5NDIx/NjEtMjQzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/OZM3QdnUrroRuGTM1OXZBGIfF0xfamLaMGt04fCwKus/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDcy/MDYzLTE3Mzg5NDIx/NjEtMjQzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33072063",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Rubyworks"
+      ],
+      "type": "release",
+      "genre": [
+        "Pop"
+      ],
+      "style": [],
+      "id": 33070194,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33070194-Lyra-Freak",
+      "catno": "none",
+      "title": "Lyra (18) - Freak",
+      "thumb": "https://i.discogs.com/RatGWATRTQ4rMVQ0S2cUU0CjKSWQ4rZncU9Xon4dIDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDcw/MTk0LTE3Mzg5Mjg1/MDAtNzE5OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/29CciUElSNl_UAFVWUF6TcFjWfWG44rHZMel0nD8BoA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDcw/MTk0LTE3Mzg5Mjg1/MDAtNzE5OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33070194",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Reiger-records-reeks",
+        "Reiger Recording Studio"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Drone",
+        "Electroacoustic",
+        "Dark Ambient"
+      ],
+      "id": 33068694,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3744621,
+      "master_url": "https://api.discogs.com/masters/3744621",
+      "uri": "/release/33068694-Roland-Kayn-Dispersions",
+      "catno": "none",
+      "title": "Roland Kayn - Dispersions",
+      "thumb": "https://i.discogs.com/Y8VYmypBdxXIidjSZ_0viGbc45C0J9ju7p7hrG9ur0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY4/Njk0LTE3Mzg5MTY1/ODUtMzIxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/AHsSb2I1XmOMeBnKJq0Q3EfPyj-gaIjMhSgCrDD-y8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY4/Njk0LTE3Mzg5MTY1/ODUtMzIxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33068694",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "AAC",
+        "Single"
+      ],
+      "label": [
+        "Rare Sound",
+        "Rare Sound"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 33065634,
+      "barcode": [
+        "1790371141"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33065634-K-Camp-Watch-It-Fall",
+      "catno": "none",
+      "title": "K Camp - Watch It Fall",
+      "thumb": "https://i.discogs.com/1a3WPUqg5V2w43LeZhbonxXXxlFz33kIySpEK8AABDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY1/NjM0LTE3Mzg4NzQ5/NjEtODg3MC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/mA87_5nVykHkCaa-DedxcwwNJM1XvHmbQgJFuijsvjA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY1/NjM0LTE3Mzg4NzQ5/NjEtODg3MC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33065634",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "year": "2025",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Maciste Dischi",
+        "Warner Music Italy"
+      ],
+      "type": "release",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "id": 33065340,
+      "barcode": [
+        "5021732546708"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3732336,
+      "master_url": "https://api.discogs.com/masters/3732336",
+      "uri": "/release/33065340-Gazzelle-Indi",
+      "catno": "5021732546708",
+      "title": "Gazzelle - Indi",
+      "thumb": "https://i.discogs.com/pLKy4ayDn6s3ByCzF7n4iGuA-L2X_AnFUZ7McFL9kso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY1/MzQwLTE3Mzg4NzMx/NTAtNTI2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DOcCgsO9YqOj_BvwzJWFc8jFyfaOd4KMUnsSGPT2dWw/rs:fit/g:sm/q:90/h:931/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY1/MzQwLTE3Mzg4NzMx/NTAtNTI2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33065340",
+      "community": {
+        "want": 0,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2025",
+      "format": [
+        "CDr",
+        "Mini-Album"
+      ],
+      "label": [
+        "Not On Label"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Hard Rock"
+      ],
+      "id": 33051054,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3742524,
+      "master_url": "https://api.discogs.com/masters/3742524",
+      "uri": "/release/33051054-TNT-Feed-The-Rats",
+      "catno": "none",
+      "title": "TNT (101) - Feed The Rats",
+      "thumb": "https://i.discogs.com/SHhIaUNGB9AzErRZYwJeSyS0RcdBY6S1UqlYE-2RGUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDUx/MDU0LTE3Mzg3NDk0/OTQtODM3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/q65HGpwQc8RQd7wTbINgHJOqdjis09jFHSZFOnH-cKc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDUx/MDU0LTE3Mzg3NDk0/OTQtODM3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33051054",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Mini-Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2025",
+      "format": [
+        "CDr",
+        "Single",
+        "Limited Edition",
+        "File",
+        "FLAC",
+        "Stereo"
+      ],
+      "label": [
+        "163 Connected"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Gangsta"
+      ],
+      "id": 33046536,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33046536-Blvck163-More-Money",
+      "catno": "none",
+      "title": "Blvck163 - More Money",
+      "thumb": "https://i.discogs.com/oxYqb_QgvbLKn6k1e48Zpm5-RFl1jv_dpxy285IIHlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQ2/NTM2LTE3Mzg3NDk1/MzItODM3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-IFsLPtyUE1_S-clWHOO3SkCR1ASgzzq6Nj4_WRyO0o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQ2/NTM2LTE3Mzg3NDk1/MzItODM3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33046536",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Single",
+            "Limited Edition"
+          ]
+        },
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "FLAC",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV"
+      ],
+      "label": [
+        "Monster Neos",
+        "Monster Neos",
+        "Monster Neos"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Trance"
+      ],
+      "id": 33043773,
+      "barcode": [
+        "GB3W42500004"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/33043773-Hiromori-Aso-Down-Force",
+      "catno": "MNEOS77",
+      "title": "Hiromori Aso - Down Force",
+      "thumb": "https://i.discogs.com/NVt_rxdJ4gMRBe2zE6TCVAtGp8Ilx7oDVp_jlHQq-5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQz/NzczLTE3MzkxNTI0/MjYtMTE3NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KKXFLNuVYo7EB7W64g6b3J73DsGpWMot8AasNNqC3Mw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQz/NzczLTE3MzkxNTI0/MjYtMTE3NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33043773",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "WAV"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Not On Label (Steve Roach Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Ambient",
+        "Berlin-School"
+      ],
+      "id": 33043065,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3741636,
+      "master_url": "https://api.discogs.com/masters/3741636",
+      "uri": "/release/33043065-Steve-Roach-February-2025-Exclusive",
+      "catno": "none",
+      "title": "Steve Roach - February 2025 Exclusive",
+      "thumb": "https://i.discogs.com/_2G0nrnJLhx_B6pSALhFq2_t0rFgJv9lFUFpybXMEZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQz/MDY1LTE3Mzg2Njc5/MzEtNzY1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZgwroNMZSg4-9mZztg0rVtIH1GT1kDWb0zK-BDO-11c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQz/MDY1LTE3Mzg2Njc5/MzEtNzY1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33043065",
+      "community": {
+        "want": 1,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "5",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Sweden",
+      "year": "2025",
+      "format": [
+        "File",
+        "AAC",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Mangalore",
+        "Mangalore Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "id": 33026151,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1434881,
+      "master_url": "https://api.discogs.com/masters/1434881",
+      "uri": "/release/33026151-Merrygold-Choking-On-The-Fat-Cream",
+      "catno": "none",
+      "title": "Merrygold - Choking On The Fat Cream",
+      "thumb": "https://i.discogs.com/DaUSFy9sznKlmv8u2BmllGQs46lSk_BYjZMUraCD1sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDI2/MTUxLTE3Mzg1MDQ4/MTMtMTE2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Wa7TaStULI__0CqENaGWxyeU_A_8gaviWb0iuPjQMGk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDI2/MTUxLTE3Mzg1MDQ4/MTMtMTE2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33026151",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Single"
+      ],
+      "label": [
+        "ZYX Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Nu-Disco",
+        "House"
+      ],
+      "id": 33013008,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3745401,
+      "master_url": "https://api.discogs.com/masters/3745401",
+      "uri": "/release/33013008-L-Milla-Everybodys-Free-Bekim-Remix",
+      "catno": "DIG161121",
+      "title": "L-Milla - Everybody's Free (Bekim! Remix)",
+      "thumb": "https://i.discogs.com/YuHYVrLslxD7Xflmcdxngn01ovvQ8eRKCl7wpVBJPlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDEz/MDA4LTE3MzgzODIw/NTEtNDYyMC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/RQWuVmhAtp__GZIU3s2ZWHuw2XGPCjXmiKgcz0zgwFA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDEz/MDA4LTE3MzgzODIw/NTEtNDYyMC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33013008",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "WAV",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Speedcore Worldwide Audio Netlabel"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Speedcore"
+      ],
+      "id": 33003171,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3739968,
+      "master_url": "https://api.discogs.com/masters/3739968",
+      "uri": "/release/33003171-Human-End-Phantasm",
+      "catno": "SWAN-288",
+      "title": "Human End - Phantasm",
+      "thumb": "https://i.discogs.com/obeO2Nx4Cqv1ZJFzSu5KhIUjrQYdhZ7sDM6cq2lS5KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDAz/MTcxLTE3MzgyOTQ5/MjItOTYzOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zN5T4bjdIWxctk5onRWD7WEEveP5yGedUdT2GmKyfhw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDAz/MTcxLTE3MzgyOTQ5/MjItOTYzOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33003171",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "8",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Four Lane Road Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Acoustic"
+      ],
+      "id": 32889015,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32889015-Mountain-Climer-Before-You-Turn-Out-The-Lights",
+      "catno": "4LR17",
+      "title": "Mountain Climer - Before You Turn Out The Lights",
+      "thumb": "https://i.discogs.com/lS6htK9X8MKs0-aj1IlPI3135k36XEQNxa4sZsgizYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODg5/MDE1LTE3MzczMDA2/MjQtNDA1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/a7TYMBjcKvCDgdhI4CycLeEQH1uV6G0mezmteoJrFV8/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODg5/MDE1LTE3MzczMDA2/MjQtNDA1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32889015",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "EP"
+      ],
+      "label": [
+        "Winter Forest Industries"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Black Metal"
+      ],
+      "id": 32878968,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32878968-Gr%C3%ADmsv%C3%B6tn-The-Cheltenham-Ghost-Haunted-By-A-Past-",
+      "catno": "COLD405",
+      "title": "Grímsvötn - The Cheltenham Ghost​-​Haunted By A Past ",
+      "thumb": "https://i.discogs.com/bQhZJsbggliW47U0sJ8qbpDSp7TUc5a9ngPavUPgc5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc4/OTY4LTE3MzcyMTA3/OTEtNDIyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/N4WnMxIRyb7SyYLkPcM4GtG93q6JytTkZ38ZwgdVNKA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc4/OTY4LTE3MzcyMTA3/OTEtNDIyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32878968",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "8",
+          "descriptions": [
+            "WAV",
+            "EP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Redux Recordings",
+        "Redux Recordings",
+        "Redux Recordings",
+        "Label Worx"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Trance"
+      ],
+      "id": 32876601,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3726144,
+      "master_url": "https://api.discogs.com/masters/3726144",
+      "uri": "/release/32876601-Sergiy-Akinshin-Monster",
+      "catno": "RDX629",
+      "title": "Sergiy Akinshin - Monster",
+      "thumb": "https://i.discogs.com/w9QJGP6F3l2-wphaNKyYxOAYGSaMJG6jauNnVsb81vM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc2/NjAxLTE3MzcxOTE0/MjMtNzc5MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/TpUCQPemTBwn-rULPnS0XS4S6iYxF3MQBMiSTsYcnA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc2/NjAxLTE3MzcxOTE0/MjMtNzc5MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32876601",
+      "community": {
+        "want": 1,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "year": "2025",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Armada"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Progressive House"
+      ],
+      "id": 32872713,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32872713-Nico-De-Andrea-Feat-Hazel-Compromise",
+      "catno": "ARMAS3053",
+      "title": "Nico De Andrea Feat. Hazel (39) - Compromise",
+      "thumb": "https://i.discogs.com/uaNkx3bdidY3BqfkjU4qlj7qjdmmujV9pBCymnmd_5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODcy/NzEzLTE3MzcxNDc0/NjItOTUxOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Rcx4PN31RwpmCNApOO7abfoqVNG5XcJ6uKNCvYrEHHc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODcy/NzEzLTE3MzcxNDc0/NjItOTUxOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32872713",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Remastered",
+        "Stereo"
+      ],
+      "label": [
+        "Non Standard Productions",
+        "Non Standard Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "Abstract",
+        "Ambient",
+        "Electro",
+        "Dark Ambient",
+        "Experimental",
+        "Industrial"
+      ],
+      "id": 32871405,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32871405-Pink-Elln-Music-To-Use",
+      "catno": "NSP 24",
+      "title": "Pink Elln - Music To Use",
+      "thumb": "https://i.discogs.com/1w7VnXOT4Va1oLfmKFgUj5zpPgy_fgysYk_0yJdLqgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODcx/NDA1LTE3MzcxNDAz/NjAtNTQ4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZZJYHINJO9K-cHz9siv2MfoQfr3hi1n7k_zaHMbrCfo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODcx/NDA1LTE3MzcxNDAz/NjAtNTQ4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32871405",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "22",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Single"
+      ],
+      "label": [
+        "etcetc",
+        "etcetc Music Pty Ltd",
+        "etcetc Music Pty Ltd"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Dance-pop"
+      ],
+      "id": 32865519,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/32865519-Sumner-Starlight",
+      "catno": "ETCETCD5850",
+      "title": "Sumner (3) - Starlight",
+      "thumb": "https://i.discogs.com/1xpj3h-ydbqZzES81B4durEhNlohL4uHOiSPCQKxC4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODY1/NTE5LTE3MzcwODc0/NzctMTEzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/AzUE7O6CbngUAJrJn7s9CbsfuMfvCgmRnwppa_eSOmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODY1/NTE5LTE3MzcwODc0/NzctMTEzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32865519",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "16-bit/44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Single"
+          ]
+        }
+      ]
+    }
+  ]
+}
