@@ -5,11 +5,9 @@ import os
 from pathlib import Path
 import lyricsgenius
 
-# API Tokens - Replace with your actual tokens
 DISCOGS_TOKEN = "xmWNqVMtvKoFllImiTkEbgIMpgmdVRVggXqrWJPQ"
 GENIUS_API_TOKEN = "r6vW9hyUck05RRuvBF4L1f5MjirVAeuHO0tauARd-aB1pt7xscCUVzMnFoFC2WTS"
 
-# Create output directories
 def setup_directories():
     for year in [2007, 2008, 2009, 2020, 2025]:
         for api in ['discogs', 'musicbrainz', 'acousticbrainz', 'genius']:
