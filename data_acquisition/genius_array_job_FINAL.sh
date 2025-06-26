@@ -34,10 +34,8 @@ echo "Array Task ID: $SLURM_ARRAY_TASK_ID"
 echo "Working directory: $(pwd)"
 echo "Using input folder: $INPUT_FOLDER"
 
-# Create array of input files (CSV files only)
 mapfile -t INPUT_FILES < <(find "$INPUT_FOLDER" -name "*.csv" -type f | sort)
 
-# Check if we have any CSV files
 if [ ${#INPUT_FILES[@]} -eq 0 ]; then
   echo "ERROR: No CSV files found in '$INPUT_FOLDER'"
   exit 1
@@ -45,13 +43,11 @@ fi
 
 echo "Found ${#INPUT_FILES[@]} CSV files to process"
 
-# Check if array task ID is within bounds
 if [ $SLURM_ARRAY_TASK_ID -gt ${#INPUT_FILES[@]} ]; then
   echo "Array task ID $SLURM_ARRAY_TASK_ID exceeds number of files (${#INPUT_FILES[@]}). Exiting."
   exit 0
 fi
 
-# Get the file for this array task (array is 1-indexed, bash arrays are 0-indexed)
 INPUT_FILE="${INPUT_FILES[$((SLURM_ARRAY_TASK_ID-1))]}"
 echo "Processing file: $INPUT_FILE"
 
@@ -59,12 +55,12 @@ echo "Processing file: $INPUT_FILE"
 module load python/3.11.5
 source /home/smacieje/myenv/bin/activate
 
-# Create unique output directory for this array task
+# Create output directory
 OUTPUT_DIR=~/api_output_${SLURM_JOB_ID}_${SLURM_ARRAY_TASK_ID}
 mkdir -p "$OUTPUT_DIR"
 cd "$OUTPUT_DIR" || exit
 
-# Run the Genius lyrics script
+# Run Genius script
 python /home/smacieje/genius_lyrics_batch.py "$INPUT_FILE" \
     --delay 2.0 \
     --checkpoint-interval 25
