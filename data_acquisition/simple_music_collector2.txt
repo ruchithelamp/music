@@ -1,0 +1,116 @@
+import requests
+import pandas as pd
+import time
+from ratelimit import limits, sleep_and_retry
+from lyricsgenius import Genius
+from tqdm import tqdm
+
+# Setup Genius
+GENIUS_API_KEY = "r6vW9hyUck05RRuvBF4L1f5MjirVAeuHO0tauARd-aB1pt7xscCUVzMnFoFC2WTS"
+genius = Genius(GENIUS_API_KEY, skip_non_songs=True, remove_section_headers=True)
+
+# Rate-limiting parameters
+@sleep_and_retry
+@limits(calls=60, period=60)
+def safe_request(url, headers=None, params=None):
+    return requests.get(url, headers=headers, params=params)
+
+def get_discogs_tracks(year, discogs_token):
+    headers = {"Authorization": f"Discogs token={discogs_token}"}
+    tracks = []
+    page = 1
+
+    while True:
+        url = f"https://api.discogs.com/database/search"
+        params = {
+            "year": year,
+            "type": "release",
+            "format": "Single",
+            "page": page,
+            "per_page": 100,
+            "token": discogs_token,
+        }
+        res = safe_request(url, headers=headers, params=params)
+        if res.status_code != 200:
+            break
+        data = res.json()
+        for result in data.get("results", []):
+            tracks.append({
+                "source": "Discogs",
+                "title": result.get("title"),
+                "artist": result.get("artist"),
+                "year": result.get("year"),
+                "country": result.get("country"),
+                "genre": result.get("genre"),
+                "style": result.get("style"),
+                "album": result.get("title"),  # treat release title as album
+            })
+        if not data.get("pagination", {}).get("urls", {}).get("next"):
+            break
+        page += 1
+    return tracks
+
+def get_musicbrainz_info(title, artist):
+    time.sleep(1)  # Respect rate limit
+    query = f'recording:"{title}" AND artist:"{artist}"'
+    url = f"https://musicbrainz.org/ws/2/recording/"
+    params = {"query": query, "fmt": "json"}
+    res = safe_request(url, params=params)
+    if res.status_code != 200:
+        return None
+    recordings = res.json().get("recordings", [])
+    if recordings:
+        rec = recordings[0]
+        return {
+            "mbid": rec.get("id"),
+            "title": rec.get("title"),
+            "artist": rec["artist-credit"][0]["name"] if rec.get("artist-credit") else artist,
+            "release_date": rec.get("first-release-date")
+        }
+    return None
+
+def get_acousticbrainz_features(mbid):
+    url = f"https://acousticbrainz.org/api/v1/{mbid}/high-level"
+    res = safe_request(url)
+    if res.status_code != 200:
+        return None
+    return res.json().get("highlevel", {})
+
+def get_lyrics(title, artist):
+    try:
+        song = genius.search_song(title=title, artist=artist)
+        return song.lyrics if song else None
+    except Exception:
+        return None
+
+def merge_track_info(discogs_track, musicbrainz_info, acoustic_features, lyrics):
+    return {
+        **discogs_track,
+        "mbid": musicbrainz_info.get("mbid") if musicbrainz_info else None,
+        "release_date": musicbrainz_info.get("release_date") if musicbrainz_info else None,
+        "acoustic_features": acoustic_features,
+        "lyrics": lyrics
+    }
+
+def main(years, discogs_token):
+    all_tracks = []
+    for year in years:
+        print(f"Processing year {year}...")
+        discogs_tracks = get_discogs_tracks(year, discogs_token)
+        for track in tqdm(discogs_tracks):
+            mb_info = get_musicbrainz_info(track["title"], track["artist"])
+            if not mb_info:
+                continue
+            acoustic = get_acousticbrainz_features(mb_info["mbid"])
+            lyrics = get_lyrics(track["title"], track["artist"])
+            combined = merge_track_info(track, mb_info, acoustic, lyrics)
+            all_tracks.append(combined)
+
+    df = pd.DataFrame(all_tracks)
+    df.to_parquet("track_metadata.parquet", index=False)
+    print("Saved to track_metadata.parquet")
+
+if __name__ == "__main__":
+    DISCOGS_TOKEN = "xmWNqVMtvKoFllImiTkEbgIMpgmdVRVggXqrWJPQ"
+    YEARS = list(range(2007, 2009))  # Change as needed
+    main(YEARS, DISCOGS_TOKEN)
