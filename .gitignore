@@ -7,3 +7,5 @@ logs/
 # Ignore virtual environments
 anthro-site/venv/
 venv/
+acousticbrainz_sample.csv
+acousticbrainz_sample_1.csv
