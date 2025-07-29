@@ -1,1 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.env.*
+logs/
+
+# Ignore virtual environments
 anthro-site/venv/
+venv/
